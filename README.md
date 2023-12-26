@@ -1,0 +1,1 @@
+# In this project I have created a django project with AI
